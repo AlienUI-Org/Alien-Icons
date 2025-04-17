@@ -1,9 +1,14 @@
 import "./App.css";
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import SearchBar from "./components/Searchbar";
 
 function App() {
   return (
     <>
-      <h1 className="font-bold text-5xl">ken</h1>
+      <Navbar />
+      <Hero />
+      <SearchBar />
     </>
   );
 }
