@@ -13,10 +13,12 @@ function Hero() {
           </h1>
         </div>
         <div className="flex justify-center">
-          <button className="bg-purple-500 px-6 rounded-full py-2 flex gap-3 cursor-pointer">
-            <FaGithub className="text-2xl" />
-            <span className="font-semibold">Documentation</span>
-          </button>
+          <a href="https://github.com/khaymanii/Alien-Icons">
+            <button className="bg-purple-500 px-6 rounded-full py-2 flex gap-3 cursor-pointer">
+              <FaGithub className="text-2xl" />
+              <span className="font-semibold">Documentation</span>
+            </button>
+          </a>
         </div>
       </div>
     </div>

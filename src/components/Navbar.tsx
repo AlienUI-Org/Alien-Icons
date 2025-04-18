@@ -20,7 +20,7 @@ function Navbar() {
             <a href="https://x.com/alienui">
               <FaXTwitter className="text-xl" />
             </a>
-            <a href="https://github.com/khaymanii/alienui">
+            <a href="https://github.com/khaymanii/Alien-Icons">
               <FaGithub className="text-xl" />
             </a>
           </div>
