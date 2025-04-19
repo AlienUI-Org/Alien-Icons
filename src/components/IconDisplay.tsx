@@ -41,7 +41,7 @@ function IconDisplay({
                 )}
               </button>
             </div>
-            <h1 className="text-xs text-center mb-6 w-34 break-words">
+            <h1 className="text-xs text-center mb-6 w-34 wrap-break-word">
               {icon.name}
             </h1>
           </div>
