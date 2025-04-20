@@ -54,7 +54,7 @@ function IconDisplay({
                 )}
               </button>
             </div>
-            <h1 className="text-xs text-center mb-6 w-34 truncate group-hover:whitespace-normal group-hover:overflow-visible">
+            <h1 className="text-xs text-center mb-6 w-34 break-words">
               {icon.name}
             </h1>
           </div>
