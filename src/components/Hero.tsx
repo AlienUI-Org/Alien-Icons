@@ -5,7 +5,7 @@ function Hero() {
     <div className="bg-purple-50 py-20">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col justify-center">
         <div className="font-medium text-sm mb-10 text-center">
-          <span className="text-gray-500">React & React Native</span>
+          <span className="text-gray-500">React · Vue · React Native</span>
         </div>
         <div className="mb-10">
           <h1 className="font-bold text-4xl text-center">
