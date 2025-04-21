@@ -44,7 +44,7 @@ function IconDisplay({
               />
               <button
                 onClick={() => copyToClipboard(icon.variants[variant], index)}
-                className="absolute top-2 right-2 bg-white p-1 rounded-full opacity-0 group-hover:opacity-100 transition duration-200 shadow"
+                className="absolute top-2 right-2 bg-white p-1 rounded-full opacity-0 group-hover:opacity-100 transition duration-200 shadow cursor-pointer"
                 title="Copy SVG"
               >
                 {copiedIndex === index ? (
