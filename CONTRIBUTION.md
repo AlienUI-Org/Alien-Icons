@@ -78,7 +78,7 @@ Thank you for considering contributing to **Alienicons**! Your contributions pla
 
 ## Code of Conduct
 
-- Review and adhere to our [Code of Conduct](https://github.com/khaymanii/AlienUI/blob/main/CODE%20OF%20CONDUCT.md) during your contribution.
+- Review and adhere to our [Code of Conduct](https://github.com/AlienUI-Org/Alien-Icons/blob/main/CODE%20OF%20CONDUCT.md) during your contribution.
 
 ## Show Your Support
 
