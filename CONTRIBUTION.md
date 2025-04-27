@@ -1,6 +1,6 @@
 # Contributing to Alienicons
 
-Thank you for considering contributing to **Alienicons**! Your contributions play a vital role in building a cutting-edge, inclusive, and highly customizable UI component library. This guide outlines how to get started and ensures a seamless contribution process for everyone involved.
+Thank you for considering contributing to **Alienicons**! Your contributions play a vital role in building a cutting-edge, inclusive, and highly customizable icon library. This guide outlines how to get started and ensures a seamless contribution process for everyone involved.
 
 ## Getting Started
 
